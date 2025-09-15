@@ -6,6 +6,7 @@ public class MyFrame extends JFrame {
         this.setTitle("First Java App");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(720, 720) ;
+
         this.setVisible(true); // Make frame visible
 
         ImageIcon image = new ImageIcon("src/favicon.png") ;
