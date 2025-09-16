@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Learn-Java-GUI-Swing.iml" filepath="$PROJECT_DIR$/Learn-Java-GUI-Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing-Jpanel/Swing-Jpanel.iml" filepath="$PROJECT_DIR$/Swing-Jpanel/Swing-Jpanel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Swing-Label/Swing-Label.iml" filepath="$PROJECT_DIR$/Swing-Label/Swing-Label.iml" />
     </modules>
   </component>
